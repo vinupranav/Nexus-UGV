@@ -12,6 +12,11 @@
 ![Jetson](https://img.shields.io/badge/NVIDIA-Jetson%20Orin%20Nano-76B900?logo=nvidia&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+<p align="center">
+  <img src="assets/mapping.gif" width="80%" />
+</p>
+
+
 > **Fully autonomous patrol and inspection robot** — real-time 2D LiDAR SLAM, 3D volumetric mapping, computer vision-based threat detection, and autonomous navigation on NVIDIA Jetson edge hardware.
 
 ---
@@ -33,17 +38,12 @@ The system operates **end-to-end without human intervention**, navigating dynami
   <img src="assets/Nexus3.JPG" width="32%" />
 </p>
 ---
+## Real-Time Mapping — Jetson Orin Nano — Large Dynamic Environment
 
-## 🎬 Demo Videos
+<p align="center">
+  <img src="assets/mapping2.gif" width="80%" />
+</p>
 
-| Demo | Link |
-|---|---|
-| Full Autonomous Navigation | Coming Soon |
-| 3D Mapping & Reconstruction | Coming Soon |
-| Weapon & Threat Detection | Coming Soon |
-| Pothole Inspection Run | Coming Soon |
-
----
 
 ## 🎯 Key Results
 
