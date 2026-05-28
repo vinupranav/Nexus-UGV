@@ -25,6 +25,14 @@ The system operates **end-to-end without human intervention**, navigating dynami
 > 🔒 **Source code will be made open-source following the publication of the associated research paper (IEEE RA-L / IROS). Demo videos below.**
 
 ---
+## 📸 Robot Platform
+ 
+<p align="center">
+  <img src="assets/Nexus1.JPG" width="32%" />
+  <img src="assets/Nexus2.JPG" width="32%" />
+  <img src="assets/Nexus3.JPG" width="32%" />
+</p>
+---
 
 ## 🎬 Demo Videos
 
