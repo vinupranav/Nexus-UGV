@@ -37,8 +37,9 @@ The system operates **end-to-end without human intervention**, navigating dynami
   <img src="assets/Nexus2.JPG" width="32%" />
   <img src="assets/Nexus3.JPG" width="32%" />
 </p>
+
 ---
-## Real-Time Mapping — Jetson Orin Nano — Large Dynamic Environment
+## Real-Time Navigation — Jetson Orin Nano — Large Dynamic Environment
 
 <p align="center">
   <img src="assets/mapping2.gif" width="80%" />
